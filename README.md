@@ -16,7 +16,7 @@
 - GitHub for version control
 
 ## Quick Demo Vid
-[![Watch demo](https://img.youtu.be/qQF69cXK4uY/hqdefault.jpg)](https://youtu.be/qQF69cXK4uY)
+[![Watch demo](https://img.youtube/vi/qQF69cXK4uY/hqdefault.jpg)](https://youtu.be/qQF69cXK4uY)
 
 ## Future Steps...
 - Unlockable _and/or_ customizable bird sprites for personalization  
