@@ -1,4 +1,4 @@
-# Typey Bird
+# Typey Bird 🦅 
 
 **Typey Bird** takes Flappy Bird and turns it into a typing challenge! It's a Unity game where players must type bird-related words to keep their bird flying through pipes. It features multiple difficulty modes and responsive gameplay mechanics.
 
@@ -14,6 +14,9 @@
 - Input system for real-time word detection
 - Scene management (title, game, etc) and basic UI design
 - GitHub for version control
+
+## Quick Demo Vid
+[![Watch demo](https://img.youtu.be/qQF69cXK4uY/hqdefault.jpg)](https://youtu.be/qQF69cXK4uY)
 
 ## Future Steps...
 - Unlockable _and/or_ customizable bird sprites for personalization  
